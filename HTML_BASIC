@@ -1,1 +1,19 @@
-<center>HTML_BASIC</center>
+HTML_BASIC   
+(html stand for hyper text markup language,,  and it is the most widely used language to write web pages)
+* HYPERTEXT MEANS  =  the way in which web pages (html document) are linked together ,thus  the link available on a webpage is called HYPERTEXT.
+MARKUP LANGUAGE MEANS = you use html to simply "markup" a text document with tags that tell  a web browser how to structure it to display..
+now html is being widely used to format web pages with the help of different tags available in html language. 
+HTML TAG  =  html is a markup language and makes use of various tags to format the contebt . these tags are enclosed within angle braces <tag name> .except few tags,most of the have their corresponding closing tags.
+
+TAG            DESCRIPTION
+<!DOCTYPE>     the tag define document type and htnl version
+<html>         the tag enclose the complete html document and mainly comprises of document header which is represented by <head>.....</head> and document body  which is represented by <body>....</body> tags.
+<head>         the tag represents the document headerwhich cankeep other html tags like <title > ,<link>etc
+<title>        the <title> is used inside the <head> tag to mention the document title 
+<,body>        the tag represent  the document's body which keeps other  html tags like <h1>,<p>,<div>,<br> etc
+<h>            the tag represent heading
+<P>            THE tag represent paragraph
+<br>           break the line also called empty element
+<center>       moves any content in the center of the page
+<hr />         also it is empty elemement,create horizatal kine are used to visually break-up section of a document  (hr tag not valid in xhtml)
+
