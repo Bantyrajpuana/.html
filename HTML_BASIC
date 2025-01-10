@@ -6,6 +6,7 @@ now html is being widely used to format web pages with the help of different tag
 HTML TAG  =  html is a markup language and makes use of various tags to format the contebt . these tags are enclosed within angle braces <tag name> .except few tags,most of the have their corresponding closing tags.
 
 TAG            DESCRIPTION
+<!-- ... -->   specifies comment
 <!DOCTYPE>     the tag define document type and htnl version
 <html>         the tag enclose the complete html document and mainly comprises of document header which is represented by <head>.....</head> and document body  which is represented by <body>....</body> tags.
 <head>         the tag represents the document headerwhich cankeep other html tags like <title > ,<link>etc
@@ -16,4 +17,47 @@ TAG            DESCRIPTION
 <br>           break the line also called empty element
 <center>       moves any content in the center of the page
 <hr />         also it is empty elemement,create horizatal kine are used to visually break-up section of a document  (hr tag not valid in xhtml)
-
+<a>  specifies an anchor
+<abbr>   specifies abreviation
+<acronym>  specifies an acronym
+<address>  specifies an addredd element
+<applet>  deperecated. specifies an applet
+<area>    specifies an area inside an image mao
+<article >  specifies article
+<b>  bold text
+<base>  a base url for alll the link in a page
+<audio>  a sound content
+<basefont>  depreciated .a base font
+<aside>   some content loosely related to the page content. if is removed ,the remaininfg content still makes sence.
+<bdo>  the direction of texr display 
+<big>   big text
+<bgsound>  background music
+<blink>  a text which blink 
+<blockquote>  a long quotation
+<button>  a push button
+<canvas >for making graphic with a script
+<code >   computer code text
+<col >   attribute table coullmn
+<caption>   a table caption
+<datalist>  a list of option for input value
+<comment>   put a comment in a document
+<colgroup>  group of table column
+<cite>   citation
+<center>   depreciated . centered text
+<bdi>    represent text that must be isolated from its surrokunding for bidirectionnal text formattion.it allow embedding a span or text with a different or unknown direcionality
+<dd>  definition description
+<del>  delete text 
+<dfn>  definition  term
+<dialog>  a dialog box or window
+<dir>   depreciated . directory list
+<div>  a section in adocument \
+<dl>  definition list
+<dt>   dfefinition term
+<em>   emphasized text
+<embed>   a container for an external application
+<fieldset>  specifies a fieldset
+<figcaption>  a caption for a <figure> element
+<figure>  self contained content
+<font>  deprevciated .text font ,size ,color
+<footer>  a footer for a document or section
+<form>
