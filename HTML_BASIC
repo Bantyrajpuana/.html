@@ -61,3 +61,19 @@ TAG            DESCRIPTION
 <font>  deprevciated .text font ,size ,color
 <footer>  a footer for a document or section
 <form>
+
+
+*html-element is defined by starting tag .if the element contain other content ,it end with closing tag .
+ <p>  ..... </p>  ,<h1></h1>  is an html element
+ whiich does need to be closed -- <br />, <img..?>,<hr />  known as void element.
+
+*html-attribute => an attribute is used to define the characteristic of an element and is placed inside the element opening tag all attributes are made up of two pars:
+  a name and a value..
+*  the name is a property you want to set . for example ,the paragaraph <p> element in the examole carrries whose name is align.
+which you can use to indicate the alignment of paragraph on the page .
+*  the value is what you want the value of the property to be set and always put within quotations .
+the below example shows three possible values of align attribute :left ,center and right.
+
+attribute value and attribute name are case insensitive .however ,the world wide web consortium(w3c) recommend lowercase attribute value in theiwr html 4 recommendation
+core attribute the four core attribute that can be used on the majority of html element
+1) the ID attribute =>  the id attrinb
