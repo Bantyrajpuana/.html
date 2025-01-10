@@ -76,4 +76,19 @@ the below example shows three possible values of align attribute :left ,center a
 
 attribute value and attribute name are case insensitive .however ,the world wide web consortium(w3c) recommend lowercase attribute value in theiwr html 4 recommendation
 core attribute the four core attribute that can be used on the majority of html element
-1) the ID attribute =>  the id attrinb
+1) the ID attribute =>  the id attrinbof an html tag can be used to uniquuely identity any element within an html page ,there are two primary reaason that you might want to use an id attribute on an element
+ * if an element carries an id attribute as a unique identifier ,it is possible to identify just that element and its content
+ *  if you have two element of the same name within an web page (or style sheet),you can use the id attribute to distinguish between elements that have the same name.
+2) the TITLE attribute => the title attribute give a suggested title for the element .they symtax for the title attribute is similar as explained for id attribute
+the behavior of this attribute will depend upon the element that carried it although it is often displayed as tooitip when cursor comes over the element or while the element is loading
+3)  the CLASS attribute => the class attribute is used to associatedan element awith a  style sheet , and specifies the class of element you will learn ,more cascading style sheet(css) 
+4)  the STYLE attribute => the sryle attribute allows you to specify cascading style sheet rule within the element
+5)  intermationalization attribute=>  three types -- dir,lang ,xml:lang
+  * the dir attribute => it allows you to indicate to the buowser about the direction in which the text should flow the dir attrubute can take one of two values, as you caan ssee in table that follo :
+   ltr   left to right ,  rtl    right to left (language arabic are read )
+  * the lang attribute =>  the lang attribute allows you to indicate the main language used in a document ,
+    but this attribute was kept in html only for backward comatibility with earlier version html..(replaced by xml:lang attribute  in xhtml)
+ *  the xml:lang=>it is repacer of lang
+
+html - formatting
+ 
